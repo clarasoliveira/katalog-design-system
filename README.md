@@ -1,5 +1,3 @@
-# katalog-design-system
-Design System desenvolvido em Flutter para documentar e demonstrar componentes reutilizáveis da interface do Katalog.
 # 🎬 Katalog Design System
 
 Catálogo interativo de componentes visuais desenvolvido em Flutter para documentar, visualizar e testar os elementos de interface utilizados como referência para o Katalog — Catálogo de Filmes e Jogos.
