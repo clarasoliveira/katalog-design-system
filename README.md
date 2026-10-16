@@ -29,10 +29,6 @@ O Figma pode ser utilizado como referência para a identidade visual, os compone
 - Campos de entrada e pesquisa;
 - Cards para apresentação de filmes e jogos;
 - Seletores de favoritos e status;
-- Componentes de avaliação por estrelas;
-- Navegação entre as telas de demonstração;
-- Organização modular dos componentes;
-- Aplicação de tema visual compartilhado;
 - Interações para testar o comportamento dos componentes.
 
 ## Categorias do Design System
