@@ -1,4 +1,4 @@
-# 🎬 Katalog Design System
+# 🎬 Katalog - Catálogo de Filmes e Jogos Design System
 
 Catálogo interativo de componentes visuais desenvolvido em Flutter para documentar, visualizar e testar os elementos de interface utilizados como referência para o Katalog — Catálogo de Filmes e Jogos.
 
